@@ -1,6 +1,6 @@
 <h1>Coursera Robotics Specialization- Estimation and Learning</h1>
 <h4>Instructor</h4> 
-<h5>Prof. Daniel Lee</h5>Professor of Electrical and Systems Engineering
+<h5>Prof. Kostas Daniilidis</h5>Professor of Electrical and Systems Engineering
 
 This repository contains the solutions from all the programming assignements and quiz in this Coursera Course.
 
